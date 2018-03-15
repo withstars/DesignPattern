@@ -1,5 +1,8 @@
-package com.xg;
+package cn.withstars;
 
+/**
+ *  单例模式 急加载
+ */
 public class SingleObject {
     private static SingleObject singleObject=new SingleObject();
 
